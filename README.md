@@ -1,6 +1,6 @@
 # Flask Mailroom Application
 
-Running at [http://quiet-anchorage-87915.herokuapp.com/](quiet-anchorage-87915.herokuapp.com/).
+Running at [http://quiet-anchorage-87915.herokuapp.com/](http://quiet-anchorage-87915.herokuapp.com/donations/).
 
 ## Your Task
 
