@@ -1,0 +1,13 @@
+{% extends 'base.jinja2' %}
+
+{% block subtitle %}View Donor{% endblock subtitle %}
+
+{% block content %}
+<form method="POST">
+    <ul>
+        {% for value in donation %}
+            <li>{{ value }}</li>
+        {% endfor %}
+    </ul>
+</form>
+{% endblock content %}
